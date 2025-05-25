@@ -10,9 +10,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['158.160.93.199', 'uralheat.zapto.org']
 
-
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
